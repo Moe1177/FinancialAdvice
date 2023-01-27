@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        // Get richer
 
         System.out.print("Please enter your yearly income ($): ");
         double income = scanner.nextDouble();
